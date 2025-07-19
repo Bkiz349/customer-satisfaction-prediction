@@ -1,4 +1,5 @@
 # Customer Satisfaction Prediction
+# Looking for line
 
 This project uses multiple linear regression to predict customer satisfaction based on factors such as service quality, pricing, and waiting time. It was developed as part of my learning journey in data science and machine learning.
 
@@ -41,7 +42,7 @@ These metrics show that the model captures a good portion of the variance in cus
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/customer-satisfaction-prediction.git
-``
+
 
 2. Open `notebook.ipynb` in Jupyter Notebook
 3. Run the cells in order
