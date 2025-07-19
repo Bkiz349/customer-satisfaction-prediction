@@ -1,5 +1,4 @@
 # Customer Satisfaction Prediction
-# Looking for line
 
 This project uses multiple linear regression to predict customer satisfaction based on factors such as service quality, pricing, and waiting time. It was developed as part of my learning journey in data science and machine learning.
 
